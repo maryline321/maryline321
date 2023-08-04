@@ -13,3 +13,4 @@
 
 💼 Collaboration: I'm open to collaborating on projects that involve Vue.js and Laravel, or any frontend and backend development tasks.
 
+📧 Contact Information: Feel free to reach me at marylinechebet2@gmail.com
