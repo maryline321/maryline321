@@ -1,16 +1,15 @@
 ### Hi,I'm Chebet Maryline👋
 
+👋 Software Engineer passionate about creating robust web applications. Specializing in frontend and backend, crafting seamless user experiences.
 
-💻 Frontend Skills: Proficient in HTML, CSS, Bootstrap, and JavaScript for creating captivating and user-friendly interfaces. Specialized in AngularJS and currently expanding my skills to include Vue.js for more versatile frontend development.
 
-🔧 Backend Skills: Experienced in backend development using Python (Django), Java (Spring Boot), and PHP (Laravel). Currently diving deeper into Laravel to strengthen my backend capabilities.
+🎨 Frontend: Skilled in HTML, CSS, Bootstrap, and JavaScript. Experienced with AngularJS for dynamic frontend components.
 
-🗄️ Database Management: Familiar with database management systems such as MySQL, Oracle, and PostgreSQL. Proficient in designing efficient database schemas and optimizing queries for improved performance.
+💻 Backend Skills: Python (Django), Java (Spring Boot), PHP (Laravel), and expertise in database management with MySQL, Oracle, PostgreSQL.
 
-💡 Passion and Interests: I am truly passionate about creating high-end business logic designs for real-time software components. My primary interest lies in building highly reliable, secure, and scalable APIs for seamless client-side operations.
+🚀 I enjoy crafting reliable, secure, and scalable APIs for seamless client-side operations.
 
-🌱 Learning Journey: At the moment, I'm actively learning Vue.js to enhance my frontend development skills and create more interactive and dynamic user interfaces. Additionally, I'm dedicating time to explore the capabilities of Laravel for even more efficient backend development.
-
-💼 Collaboration: I'm open to collaborating on projects that involve Vue.js and Laravel, or any frontend and backend development tasks.
+🌱 I'm on a learning journey exploring Vue.js for dynamic frontend experiences and enhancing my skills in Laravel for efficient backend solutions.
+💡 I'm open to collaborating on projects that require expertise in both frontend and backend development
 
 📧 Contact Information: Feel free to reach me at marylinechebet2@gmail.com
