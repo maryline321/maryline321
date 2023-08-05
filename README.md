@@ -10,6 +10,7 @@
 🚀 I enjoy crafting reliable, secure, and scalable APIs for seamless client-side operations.
 
 🌱 I'm on a learning journey exploring Vue.js for dynamic frontend experiences and enhancing my skills in Laravel for efficient backend solutions.
+
 💡 I'm open to collaborating on projects that require expertise in both frontend and backend development
 
 📧 Contact Information: Feel free to reach me at marylinechebet2@gmail.com
