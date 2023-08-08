@@ -3,7 +3,7 @@
 👋 Software Engineer passionate about creating robust web applications. Specializing in frontend and backend, crafting seamless user experiences.
 
 
-🎨 Frontend: Skilled in HTML, CSS, Bootstrap, and JavaScript. Experienced with AngularJS for dynamic frontend components.
+🎨 Frontend: Skilled in HTML, CSS, Bootstrap, and JavaScript. 
 
 💻 Backend Skills: Python (Django), Java (Spring Boot), PHP (Laravel), and expertise in database management with MySQL, Oracle, PostgreSQL.
 
