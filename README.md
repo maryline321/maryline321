@@ -5,7 +5,7 @@
 
 🎨 Frontend: Skilled in HTML, CSS, Bootstrap, and JavaScript. 
 
-💻 Backend Skills: Python (Django), Java (Spring Boot), PHP (Laravel), and expertise in database management with MySQ.
+💻 Backend Skills: Python (Django), Java (Spring Boot), PHP (Laravel), and expertise in database management with MySQL.
 
 🚀 I enjoy crafting reliable, secure, and scalable APIs for seamless client-side operations.
 
